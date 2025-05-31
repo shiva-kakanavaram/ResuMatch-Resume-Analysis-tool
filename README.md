@@ -55,7 +55,6 @@ The **ResuMatchr** is an intelligent tool designed to streamline the hiring and 
 ![Image](https://github.com/user-attachments/assets/9e57e98e-838c-40c5-ab5b-3df74d054c60)
 ![Image](https://github.com/user-attachments/assets/7136268d-dd08-4799-8217-f3d324d2ec58)
 
-- **Demonstration**
 - **ATS**
   ![Image](https://github.com/user-attachments/assets/086788cd-3ef0-459c-acbc-5f5ff91eafd9)
   ![image](https://github.com/user-attachments/assets/98e3e156-7de8-467a-bdd5-0ef2cd8109e7)
