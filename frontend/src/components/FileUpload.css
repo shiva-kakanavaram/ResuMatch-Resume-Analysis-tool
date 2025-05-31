@@ -1,0 +1,13 @@
+.image-warning {
+  margin-top: 12px;
+  padding: 10px 15px;
+  background-color: #fff3cd;
+  border: 1px solid #ffeeba;
+  border-radius: 4px;
+  color: #856404;
+  font-size: 14px;
+}
+
+.image-warning p {
+  margin: 0;
+} 

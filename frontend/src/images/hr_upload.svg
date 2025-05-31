@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa" rx="10" ry="10"/>
+  
+  <!-- Header -->
+  <rect x="50" y="30" width="700" height="60" fill="#4a6cf7" rx="5" ry="5"/>
+  <text x="400" y="70" font-family="Arial" font-size="24" fill="white" text-anchor="middle">HR Portal - Job Posting</text>
+  
+  <!-- Main Content Box -->
+  <rect x="150" y="120" width="500" height="450" fill="white" stroke="#ddd" stroke-width="2" rx="10" ry="10"/>
+  
+  <!-- Form Title -->
+  <text x="400" y="150" font-family="Arial" font-size="18" font-weight="bold" fill="#333" text-anchor="middle">Create New Job Posting</text>
+  
+  <!-- Job Title Field -->
+  <text x="180" y="190" font-family="Arial" font-size="14" fill="#333">Job Title</text>
+  <rect x="180" y="200" width="440" height="40" fill="#f8f9fa" stroke="#ddd" stroke-width="1" rx="5" ry="5"/>
+  <text x="195" y="225" font-family="Arial" font-size="14" fill="#666">Senior Data Scientist</text>
+  
+  <!-- Department Field -->
+  <text x="180" y="260" font-family="Arial" font-size="14" fill="#333">Department</text>
+  <rect x="180" y="270" width="440" height="40" fill="#f8f9fa" stroke="#ddd" stroke-width="1" rx="5" ry="5"/>
+  <text x="195" y="295" font-family="Arial" font-size="14" fill="#666">Data Science & Analytics</text>
+  
+  <!-- Location Field -->
+  <text x="180" y="330" font-family="Arial" font-size="14" fill="#333">Location</text>
+  <rect x="180" y="340" width="210" height="40" fill="#f8f9fa" stroke="#ddd" stroke-width="1" rx="5" ry="5"/>
+  <text x="195" y="365" font-family="Arial" font-size="14" fill="#666">San Francisco, CA</text>
+  
+  <!-- Job Type Field -->
+  <text x="410" y="330" font-family="Arial" font-size="14" fill="#333">Job Type</text>
+  <rect x="410" y="340" width="210" height="40" fill="#f8f9fa" stroke="#ddd" stroke-width="1" rx="5" ry="5"/>
+  <text x="425" y="365" font-family="Arial" font-size="14" fill="#666">Full-time</text>
+  
+  <!-- Job Description Field -->
+  <text x="180" y="400" font-family="Arial" font-size="14" fill="#333">Job Description</text>
+  <rect x="180" y="410" width="440" height="80" fill="#f8f9fa" stroke="#ddd" stroke-width="1" rx="5" ry="5"/>
+  <text x="195" y="430" font-family="Arial" font-size="14" fill="#666">We are looking for an experienced Data Scientist to...</text>
+  <text x="195" y="450" font-family="Arial" font-size="14" fill="#666">• Lead data science initiatives</text>
+  <text x="195" y="470" font-family="Arial" font-size="14" fill="#666">• Develop machine learning models</text>
+  
+  <!-- Upload Area -->
+  <text x="180" y="510" font-family="Arial" font-size="14" fill="#333">Upload Job Requirements Document (Optional)</text>
+  <rect x="180" y="520" width="440" height="40" fill="#f8f9fa" stroke="#ddd" stroke-width="1" rx="5" ry="5" stroke-dasharray="5,5"/>
+  <text x="400" y="545" font-family="Arial" font-size="14" fill="#666" text-anchor="middle">Browse Files</text>
+  
+  <!-- Submit Button -->
+  <rect x="320" y="580" width="160" height="50" fill="#4a6cf7" rx="5" ry="5"/>
+  <text x="400" y="610" font-family="Arial" font-size="16" fill="white" text-anchor="middle">Post Job</text>
+  
+  <!-- Side Panel -->
+  <rect x="680" y="120" width="70" height="450" fill="#4a6cf7" rx="5" ry="5" opacity="0.1"/>
+  
+  <!-- Icons -->
+  <circle cx="715" cy="160" r="20" fill="#4a6cf7"/>
+  <text x="715" y="165" font-family="Arial" font-size="14" fill="white" text-anchor="middle">+</text>
+  
+  <circle cx="715" cy="220" r="20" fill="#f0f0f0" stroke="#ddd" stroke-width="1"/>
+  <rect x="705" y="215" width="20" height="2" fill="#666"/>
+  <rect x="705" y="220" width="20" height="2" fill="#666"/>
+  <rect x="705" y="225" width="20" height="2" fill="#666"/>
+  
+  <circle cx="715" cy="280" r="20" fill="#f0f0f0" stroke="#ddd" stroke-width="1"/>
+  <path d="M 705 280 L 725 280 M 715 270 L 715 290" fill="none" stroke="#666" stroke-width="2"/>
+  
+  <circle cx="715" cy="340" r="20" fill="#f0f0f0" stroke="#ddd" stroke-width="1"/>
+  <circle cx="715" cy="335" r="5" fill="#666"/>
+  <circle cx="707" cy="345" r="5" fill="#666"/>
+  <circle cx="723" cy="345" r="5" fill="#666"/>
+  
+  <circle cx="715" cy="400" r="20" fill="#f0f0f0" stroke="#ddd" stroke-width="1"/>
+  <path d="M 705 400 L 725 400 M 715 390 L 725 400 L 715 410" fill="none" stroke="#666" stroke-width="2"/>
+</svg> 

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="#4361ee" />
+  
+  <!-- 'R' Character -->
+  <path d="M70 50 
+           L70 150 
+           L90 150 
+           L90 110 
+           L110 110 
+           C125 110 135 105 140 95 
+           C145 85 145 75 140 65 
+           C135 55 125 50 110 50 
+           Z" 
+        fill="white" />
+  
+  <!-- 'R' Leg -->
+  <path d="M90 95 
+           L120 150 
+           L145 150 
+           L110 90 
+           Z" 
+        fill="white" />
+        
+  <!-- Stylized Match Element -->
+  <rect x="70" y="170" width="60" height="10" rx="5" fill="white" />
+</svg> 

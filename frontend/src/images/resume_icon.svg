@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- Document Background -->
+  <rect x="3" y="2" width="18" height="20" rx="2" fill="#f1f5f9" stroke="#4361ee" stroke-width="1.5" />
+  
+  <!-- Document Header -->
+  <rect x="6" y="5" width="12" height="2" rx="1" fill="#4361ee" />
+  
+  <!-- Document Content Lines -->
+  <rect x="6" y="9" width="12" height="1" rx="0.5" fill="#718096" />
+  <rect x="6" y="12" width="12" height="1" rx="0.5" fill="#718096" />
+  <rect x="6" y="15" width="8" height="1" rx="0.5" fill="#718096" />
+  
+  <!-- Clip/Attachment -->
+  <circle cx="18" cy="4" r="1" fill="#4361ee" />
+</svg> 
