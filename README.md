@@ -1,6 +1,6 @@
-# 📄 Resume Analyzer System
+# 📄 ResuMatch
 
-The **Resume Analyzer** is an intelligent tool designed to streamline the hiring and job application process for two key user groups: **Recruiters** and **Job Seekers**.
+The **ResuMatchr** is an intelligent tool designed to streamline the hiring and job application process for two key user groups: **Recruiters** and **Job Seekers**.
 
 ---
 
@@ -46,3 +46,8 @@ The **Resume Analyzer** is an intelligent tool designed to streamline the hiring
 
 - **Modular Design**  
   The system is designed to be scalable, maintainable, and easily integrable with existing recruitment platforms or HR tools.
+  
+---
+
+## 🤖 Tool Demonstration
+![Image](https://github.com/user-attachments/assets/c295c563-84d6-46cf-b664-11bc00877201)
