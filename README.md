@@ -20,6 +20,7 @@ The **ResuMatchr** is an intelligent tool designed to streamline the hiring and 
 
 ---
 
+
 ## 🔧 Key Functionalities
 
 - **Resume Parsing**  
@@ -48,6 +49,7 @@ The **ResuMatchr** is an intelligent tool designed to streamline the hiring and 
   The system is designed to be scalable, maintainable, and easily integrable with existing recruitment platforms or HR tools.
   
 ---
+
 
 ## 🤖 Tool 
 - **Home Page**
